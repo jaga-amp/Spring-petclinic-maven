@@ -144,4 +144,8 @@ public class Owner extends Person {
     public void printOutput() {
         System.out.println("Added new Method using FEGO Remediations");
     }
+
+    public void printOutput() {
+        System.out.println("Added new Method using FEGO Remediations");
+    }
 }
